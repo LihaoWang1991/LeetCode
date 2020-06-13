@@ -18,4 +18,10 @@ Search
 * [Problem 46: Permutations](https://leetcode.com/problems/permutations/)
 * [Problem 47: Permutations II](https://leetcode.com/problems/permutations-ii/)
 * [Problem 77: Combinations](https://leetcode.com/problems/combinations/)
+* [Problem 39: Combination Sum](https://leetcode.com/problems/combination-sum/)
+* [Problem 40: Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+* [Problem 216: Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+* [Problem 78: Subsets](https://leetcode.com/problems/subsets/)
+* [Problem 90: Subsets II](https://leetcode.com/problems/subsets-ii//)
+
 
